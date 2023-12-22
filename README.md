@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm PARMESHWAR MUSALE</h1>
 <h3 align="center">Coding / Development Enthusiast</h3>
 
-- 📫 How to reach me **musaleparm@9541@gmail.com**
+- 📫 How to reach me **musaleparm9541@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
