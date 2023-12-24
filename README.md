@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>I'm PARMESHWAR MUSALE</h1></b>
+<h1 align="center"><b> PARMESHWAR MUSALE</h1></b>
 <h3 align="center">Coding / Development Enthusiast</h3>
 
 - 📫 How to reach me **musaleparm9541@gmail.com**
