@@ -1,5 +1,13 @@
 ![logo](https://github.com/ParmS-Musale/ParmS-Musale/blob/main/Github%20Bannner.png)
-★ How to reach me: musaleparm9541@gmail.com   <br> <a align=center href="https://wakatime.com/@018eb900-abdc-4620-9de6-ae3f6ad3d815"><img src="https://wakatime.com/badge/user/018eb900-abdc-4620-9de6-ae3f6ad3d815.svg" alt="Total time coded since Apr 7 2024" /></a>
+<div style="margin-bottom: 20px;">
+    ★ How to reach me: musaleparm9541@gmail.com
+</div>
+<div style="margin-bottom: 50px;">
+    <a align=center href="https://wakatime.com/@018eb900-abdc-4620-9de6-ae3f6ad3d815">
+        <img src="https://wakatime.com/badge/user/018eb900-abdc-4620-9de6-ae3f6ad3d815.svg" alt="Total time coded since Apr 7 2024" />
+    </a>
+</div>
+
 <hr>
 <div align=center>
   <img width=390 src="https://leetcode.card.workers.dev/Parm_Musale_21?theme=dark&font=baloo&extension=null&theme=dark"/>  
