@@ -6,6 +6,8 @@
    ★ <a align=center href="https://wakatime.com/@018eb900-abdc-4620-9de6-ae3f6ad3d815">
         <img src="https://wakatime.com/badge/user/018eb900-abdc-4620-9de6-ae3f6ad3d815.svg" alt="Total time coded since Apr 7 2024" />
     </a>
+    <p align="left">★ <img src="https://komarev.com/ghpvc/?username=ParmS-Musale&label=Profile%20views&color=0e75b6&style=flat" alt="ParmS-Musale" /> </p>
+
 </div>
 
 <hr>
