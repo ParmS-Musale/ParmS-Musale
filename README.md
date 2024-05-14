@@ -10,7 +10,7 @@
 
 </div>
 
-<hr>
+<hr color = "Red">
 <div align=center>
   <img width=390 src="https://leetcode.card.workers.dev/Parm_Musale_21?theme=dark&font=baloo&extension=null&theme=dark"/>  
   <img width=390 src="https://streak-stats.demolab.com?user=ParmS-Musale&theme=dark&date_format=j%20M%5B%20Y%5D" alt="streak stats"/><br></br>
