@@ -1,5 +1,5 @@
   ![logo](https://github.com/ParmS-Musale/ParmS-Musale/blob/main/Github%20Bannner.png)
-<div style="margin-bottom: 20px;">
+<div style="margin-bottom: 20px;"> 
     ★ How to reach me : musaleparm9541@gmail.com    
 </div>
 <div style="margin-bottom: 50px;">
