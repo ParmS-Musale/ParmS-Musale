@@ -11,7 +11,7 @@
 </div>
     <hr style="border: 1px solid red; height: 4px; background: #ff073a; box-shadow: 0 0 10px #ff073a, 0 0 20px #ff073a, 0 0 30px #ff073a, 0 0 40px #ff073a;">
 <div align=center>
-  <img width=390 src="https://leetcode.card.workers.dev/Parm_Musale_21?theme=dark&font=baloo&extension=null&theme=dark"/>  
+  <img width=390 src="https://leetcard.jacoblin.cool/Parm_Musale_21?theme=dark&font=Meera%20Inimai"/>  
   
   <img width=390 src="https://streak-stats.demolab.com?user=ParmS-Musale&theme=dark" alt="streak stats"/>
   <br></br>
