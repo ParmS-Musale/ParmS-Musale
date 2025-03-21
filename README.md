@@ -24,7 +24,7 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable an
 - **Git & GitHub**, **RESTful APIs**, **JWT Authentication**  
 
 ## My Projects  
-- **TechTinder** – Developers Match Making Site.  
+- **TechTinder** – Developers Match Making Sites.  
 - **Netflix GPT** – AI-powered movie recommendation system.  
 - **PlayTube** – A video streaming platform.  
 - **Citizen Journey Planner** – A smart transportation planner.  
