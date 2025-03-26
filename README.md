@@ -21,7 +21,7 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable an
 - **MongoDB**, **MySQL**  
 
 ### DevOps & Tools:  
-- **Git & GitHub**, **RESTful APIs**, **JWT Authentication**  
+- **Git & GitHub**, **RESTful APIs**, JWT Authentication
 
 ## My Projects  
 - **TechTinder** – Developers Match Making Sites.  
