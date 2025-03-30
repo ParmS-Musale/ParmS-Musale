@@ -6,7 +6,7 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable an
 - 🌱 I’m currently exploring and advanced **React** patterns.  
 - 👯 I’m looking to collaborate on innovative projects and open-source contributions.  
 - 💬 Ask me about anything related to **JavaScript**, **React**, **Node.js**
-- 📫 How to reach me: [musaleparm9541.com](mailto:musaleparm9541@gmail.com)  
+- 📫 How to reach me: [musaleparm9541@gmail.com.com](mailto:musaleparm9541@gmail.com)  
 - ⚡ Fun fact: I enjoy optimizing applications for better performance and scalability.  
 
 ## My Skill Set  
