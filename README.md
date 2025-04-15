@@ -31,4 +31,4 @@ I'm a passionate **Full-Stack Developer** with expertise in building scalable an
 
 Feel free to check out my portfolio <a href="https://parmsdev.site" target="_blank">See Portfolio</a> and connect with me on LinkedIn <a href="https://www.linkedin.com/in/parmeshwar-musale" target="_blank">LinkedIn</a>.  
 
-Let's build something amazing together...! 🚀  
+Let's build something amazing together.! 🚀  
