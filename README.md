@@ -1,4 +1,4 @@
-# Hello, I'm Parmeshwar Musale..🧑🏼‍💻
+# Hello, I'm Parmeshwar Musale...🧑🏼‍💻
 
 I'm a passionate **Full-Stack Developer** with expertise in building scalable and responsive web applications. I specialize in the **MERN Stack** and have experience working with  **Vue.js**, and various database technologies.
 
